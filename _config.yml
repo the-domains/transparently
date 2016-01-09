@@ -1,0 +1,28 @@
+name: Transparently
+favicon: null
+layout_spectrum: 0.24013306596316397
+typography_spectrum: 0.8763718155678362
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7572706290520728
+  lightness: 0.7144984258338809
+  saturation: 0.1380424953531474
+  rhythmicContrast: 0.4398034359328449
+purpose: []
